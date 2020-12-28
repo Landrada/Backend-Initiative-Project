@@ -1,0 +1,22 @@
+{
+  "name": "backend-initiative-project",
+  "version": "1.0.0",
+  "description": "This is a base repository for the backend initiative project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Landrada/Backend-Initiative-Project.git"
+  },
+  "author": "Landrada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Landrada/Backend-Initiative-Project/issues"
+  },
+  "homepage": "https://github.com/Landrada/Backend-Initiative-Project#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
